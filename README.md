@@ -1,2 +1,2 @@
 # my-best-website-ever
-Personnal page
+This is my website. It is just a website so people can learn about me. I like it. 
